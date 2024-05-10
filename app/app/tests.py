@@ -12,5 +12,5 @@ class CalcTest(SimpleTestCase):
 
     def test_add_numbers(self):
         res = add(5,7)
-        self.assertEqual(res, 16)
+        self.assertEqual(res, 12)
 
